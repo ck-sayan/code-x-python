@@ -1,5 +1,3 @@
-print("hello, world! Just starting out with python.")
-
 # Print Modifiers
 
 print("A 'single quote' inside a double quote")
