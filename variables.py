@@ -55,3 +55,15 @@ hello = "hello"
 
 print (one + two + hello)
 
+
+# Exercise: Create a string, an integer, and a floating point number.
+
+whatisup = "baby, don't hurt me, don't hurt me"
+age = 21
+accountbalance = 1.23
+
+print(whatisup)
+print("My age is = ", age)
+print("Well, take a look at my account balance = ", accountbalance)
+
+
