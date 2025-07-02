@@ -4,7 +4,7 @@
 name = input("yo! what's your name?: ")
 initial_age = float(input("well, how old are you buddy? You seem new to the dojo = "))
 
-age = int(initial_age + 5)
+age = int(initial_age + 10)
 
 print(f"welcome to the dojo, {name}! At {initial_age}, I was already a street fighting shark, you are late so let's start the training!")
 
