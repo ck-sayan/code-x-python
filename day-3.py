@@ -20,3 +20,14 @@ per = 2*(length + width)
 area = length*width
 
 print(f"For a rectangle with length = {length} and breadth = {width}, the perimeter should be {per} and area should be {area}")
+
+
+# Practice Problem:
+
+## Calculate the area and perimeter of a square
+
+side_square = float(input("Enter the length of side of the square = "))
+per_square = 4*side_square
+area_square = side_square*side_square
+
+print(f"for a square of a side {side_square} and perimeter is {per_square} and area is {area_square}")
