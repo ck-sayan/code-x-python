@@ -46,8 +46,8 @@ print(f"Thank god, Delhi has the tastiest stuff just for ₹{ind_price} and that
 # Boolean
 # Booleans represent true or false values. They are super useful for conditions.
 
-is_available = True
-gut_feeling = False
+is_available = False
+gut_feeling = True
 
 if gut_feeling:
     print("I think Manchester United won't be relegated")
